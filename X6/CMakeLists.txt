@@ -1,4 +1,4 @@
-project(x3)
+project(x6)
 find_package(Threads REQUIRED)
 add_executable(x6_2 x6_2.cpp)
 target_link_libraries(x6_2 ${CMAKE_THREAD_LIBS_INIT})

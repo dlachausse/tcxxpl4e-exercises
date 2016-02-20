@@ -1,4 +1,4 @@
-project(x3)
+project(x5)
 add_executable(x5_5 x5_5.cpp)
 add_executable(x5_6 x5_6.cpp)
 add_executable(x5_7 x5_7.cpp)
