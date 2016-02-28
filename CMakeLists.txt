@@ -5,4 +5,5 @@ add_subdirectory(X3)
 add_subdirectory(X5)
 add_subdirectory(X6)
 add_subdirectory(X7)
+add_subdirectory(X8)
 
